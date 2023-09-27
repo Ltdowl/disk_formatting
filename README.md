@@ -2,7 +2,8 @@
 
 
 >Removing partitions on a drive at the command line using DISKPART
-Заупуск програми для керування дисками.
+>
+Запуск програми для керування дисками.
 Launch Disk Management.
 ```sh
 diskpart
