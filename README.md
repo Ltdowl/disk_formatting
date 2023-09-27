@@ -25,7 +25,13 @@ select partition 1
 active
 ```
 ```sh
-format fs=fat32 quick
+format fs=fat32 quick 
+```
+```sh
+format fs=NTFS quick 
+```
+```sh
+format fs=ExFAT quick
 ```
 ```sh
 assign
